@@ -1,0 +1,9 @@
+{
+  "name": "forge-quest",
+  "version": "1.0.0",
+  "description": "Starter Firebase Studio template for building Forge applications.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
